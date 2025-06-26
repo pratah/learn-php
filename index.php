@@ -1,3 +1,7 @@
+<?php 
+    echo "Hello there!"
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
