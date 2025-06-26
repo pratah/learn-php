@@ -3,3 +3,7 @@
 ---
 
 1. [echo vs print](#echo-vs-print)
+
+---
+
+###### [Back to ](#table-of-contents) :top:
