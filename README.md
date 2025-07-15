@@ -1,9 +1,14 @@
 # :arrow_right: Learning PHP :arrow_left:
 
 ---
-
-1. [echo vs print](#echo-vs-print)
+## Table of contents
+1. [Embedding php code into html tags](#Echoing-php-from-within-html-tags)
 
 ---
+### Echoing-php-from-within-html-tags
+```php
+
+
+```
 
 ###### [Back to ](#table-of-contents) :top:
