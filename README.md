@@ -9,7 +9,7 @@
 ```php
     <title><?php echo 'Hello from PHP'; ?></title>
 ```
-:warning: In real life scenarios, we would be most likely displaying the contents of a variable. `target="_blank"`
+:warning: In real life scenarios, we would be most likely display the contents of a variable.
 
 ---
 
