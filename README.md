@@ -5,7 +5,7 @@
 1. [Embedding php code into html tags](#Echoing-php-from-within-html-tags)
 
 ---
-### Echoing php fromwithin html
+### Echoing php from within html
 ```php
 
 <title><?php echo 'Hello from PHP'; ?></title>
