@@ -2,7 +2,7 @@
 
 ---
 ## Table of contents
-1. [Embedding php code into html tags](#Echoing-php-from-within-html-tags)
+1. [Echoing php from within html](#Echoing-php-from-within-html-tags)
 
 ---
 ### Echoing php from within html
