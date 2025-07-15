@@ -2,10 +2,10 @@
 
 ---
 ## Table of contents
-1. [Echoing php from within html](#Echoing-php-from-within-html-tags)
+1. [Echoing php from within html](#Echoing-php-from-within-html)
 
 ---
-### Echoing php from within html
+### Echoing php from within html 
 ```php
 
 <title><?php echo 'Hello from PHP'; ?></title>
